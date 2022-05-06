@@ -1,19 +1,14 @@
 # Facial-Emotion-Recognition-using-CNN
 Facial Emotion Recognition using CNN - Multi Classification
-Dataset Information
-The objective of the project is to detect facial expression using image dataset. Convolutional Neural Network is used to classify the images. The output class consists of 7 different types namely angry, disgust, fear, happy, neutral, sad, surprise.
+Dataset: Kaggle 
 
-Download link: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
+Objective: To detect facial expression using image dataset. Convolutional Neural Network is used to classify the images. 
+The output class consists of 7 different types label : angry, disgust, fear, happy, neutral, sad, surprise.
 
-Environment: kaggle
 
-Libraries
-pandas
-numpy
-matplotlib
-keras
-tensorflow
-scikit-learn
-Neural Network
-CNN Network
-Accuracy: 64.00
+
+Environment: Google Colab
+
+Libraries: pandas, numpy, matplotlib, scikit-learn, CNN, Neural Network, keras, tensorflow
+
+Accuracy of the model: 64%
